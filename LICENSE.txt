@@ -14,6 +14,5 @@ right or licenses under any patents or patent application owned by MGH and HMS.
 5. The Software may only be used for non-commercial research and may not be used for clinical care.
 6. Any publication by Recipient of research involving the Software shall cite the references listed below.
 
-**Axon diameter mapping**
-**SANDI analysis**
+**Reference**
 Gabriel Ramos-Llorden, Hong-Hsi Lee, ..., Susie Y Huang, Nature Biomedical Engineering, 2025 (in press)
