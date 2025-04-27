@@ -19,4 +19,4 @@ This repository contains MATLAB scripts for performing axon diameter mapping and
 * [Susie Y Huang]()
 
 ## License
-This project is licensed under the [LICENSE](https://github.com/Connectome20/Biophysical-modeling/main/LICENSE).
+This project is licensed under the [LICENSE](https://github.com/Connectome20/Biophysical-modeling/blob/main/LICENSE).
