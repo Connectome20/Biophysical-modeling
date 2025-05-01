@@ -6,7 +6,7 @@ This repository contains MATLAB scripts for axon diameter mapping and SANDI (Som
 
 ## Scripts
 * **AxCaliberSMT** - Axon diameter mapping using Monte Carlo Markov Chain (MCMC) methods
-* **SANDI_analysis** - SANDI model fitting using random forest regression
+* **SANDI** - SANDI model fitting using random forest regression
 
 ## Prerequisites
 - MATLAB R2019b or later
