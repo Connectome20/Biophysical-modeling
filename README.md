@@ -1,6 +1,6 @@
 # Biophysical-modeling
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15319882.svg)](https://doi.org/10.5281/zenodo.15319882)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15319948.svg)](https://doi.org/10.5281/zenodo.15319948)
 
 This repository contains MATLAB scripts for axon diameter mapping and SANDI (Soma and Neurite Density Imaging) analyses based on high-gradient diffusion MRI data acquired using the 3T Connectome 2.0 scanner, as developed in [Gabriel Ramos-Llorden, Hong-Hsi Lee, ..., Susie Y Huang, Nature Biomedical Engineering, 2025]().
 
